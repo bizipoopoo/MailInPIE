@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MailInPIE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MailInPIE_jar</output-path>
+    <root id="archive" name="MailInPIE.jar">
+      <element id="module-output" name="MailInPIE" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../others/jar/mail-1.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../others/jar/mailet-api-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.29/fastjson-1.2.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.8/mysql-connector-java-5.1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-common/4.2.0/rocketmq-common-4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../others/jar/mailet-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-nop/1.7.2/slf4j-nop-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/mail/mail/1.4.7/mail-1.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-client/4.2.0/rocketmq-client-4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/rocketmq/rocketmq-remoting/4.2.0/rocketmq-remoting-4.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
