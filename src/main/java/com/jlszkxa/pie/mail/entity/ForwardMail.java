@@ -1,9 +1,5 @@
 package com.jlszkxa.pie.mail.entity;
 
-import javax.mail.Address;
-import javax.mail.internet.InternetAddress;
-import java.util.List;
-
 /**
  * @ClassName Mail
  * @Description TODO

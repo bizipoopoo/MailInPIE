@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 /**
  * @ClassName DivestitureAgreementMatcher
- * @Description 判断接收人是否是内网用户，是则匹配给Mailet进行协议剥离，否则放行
+ * @Description 判断接收人是否是内网用户，是则匹配给Mailet进行原始内容抽取，否则放行
  * @Author chenwj
  * @Date 2020/2/20 14:53
  * @Version 1.0

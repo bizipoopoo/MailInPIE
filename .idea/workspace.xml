@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="240eca0a-3068-4cc1-83af-1988a30b4366" name="Default Changelist" comment="" />
+    <list default="true" id="240eca0a-3068-4cc1-83af-1988a30b4366" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/entity/ForwardMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/entity/ForwardMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/mailet/DivestitureAgreementMailet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/mailet/DivestitureAgreementMailet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/matcher/DivestitureAgreementMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jlszkxa/pie/mail/matcher/DivestitureAgreementMatcher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Y3odO4EZDN106ansKRUbXgfEOF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -227,5 +234,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582264276543" />
+    <state x="668" y="311" key="git4idea.merge.GitPullDialog" timestamp="1582282419007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582282419007" />
   </component>
 </project>
